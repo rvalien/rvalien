@@ -15,7 +15,9 @@ A data engineer passionate about Data Science 📊. I like automating things, bu
 	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/bitbucket.svg" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/rvalien/rvalien/assets/git.svg" width="70" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/linux-tux.svg" width="40" />
-	<img title="linux" alt="airflow" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/pin_large.png" width="40" />
+	<img title="airflow" alt="airflow" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/pin_large.png" width="40" />
+	<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/docker.svg" width="40" />
+	<img title="RabbitMQ" alt="RabbitMQ" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/rabbitmq.svg" width="40" />
 
 </p>
 Docker Python SQL Git Airflow linux RabbitMQ
