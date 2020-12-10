@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> I'm Valien
 
-A data engineer passionate about Data Science 📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖
+A data engineer passionate about Data Science 📊.  
+I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.  
+Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖
 
 
 ### My skills include
