@@ -17,3 +17,12 @@ Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 
 	<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/docker.svg" width="40" />
 	<img title="RabbitMQ" alt="RabbitMQ" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/rabbitmq.svg" width="40" />
 </p>
+
+
+
+<center>
+      <div>
+                  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=rvalien&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact" /> </td>
+                  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalien&theme=dark&hide=html&layout=compact" /> </td>
+      </div>
+</center>
