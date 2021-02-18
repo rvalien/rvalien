@@ -4,7 +4,6 @@ A data engineer passionate about Data Science 📊.
 I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.  
 Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖
 
-
 ### My skills include
 
 <p align="center">
