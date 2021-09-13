@@ -17,6 +17,7 @@ Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 
 	<img title="RabbitMQ" alt="RabbitMQ" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/rabbitmq.svg" width="40" />
 	<img title="MongoDB.png" alt="MongoDB" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/MongoDB.png" width="40" />
 	<img title="fastAPI.png" alt="fastAPI" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/fastAPI.png" width="40" />
+	<img title="redis" alt="redis" src="https://raw.githubusercontent.com/rvalien/rvalien/master/assets/redis.png" width="40" />
 </p>
 
 
